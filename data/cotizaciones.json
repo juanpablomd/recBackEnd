@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "nombre": "Oficial",
+    "compra": "351",
+    "venta": "362",
+    "historial": [
+      {
+        "compra": 345,
+        "venta": 355,
+        "fecha": "2024-11-15T12:00:00Z"
+      },
+      {
+        "compra": 340,
+        "venta": 350,
+        "fecha": "2024-11-14T10:00:00Z"
+      },
+      {
+        "compra": 350,
+        "venta": 360,
+        "fecha": "2024-11-19T20:53:58.162Z"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "nombre": "Blue",
+    "compra": "749",
+    "venta": "759",
+    "historial": [
+      {
+        "compra": 740,
+        "venta": 750,
+        "fecha": "2024-11-16T14:00:00Z"
+      },
+      {
+        "compra": 750,
+        "venta": 760,
+        "fecha": "2024-11-20T17:53:54.307Z"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "nombre": "Tarjeta",
+    "compra": "361",
+    "venta": "371",
+    "historial": [
+      {
+        "compra": 360,
+        "venta": 370,
+        "fecha": "2024-11-20T17:47:15.862Z"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "nombre": "MEP",
+    "compra": "366",
+    "venta": "376",
+    "historial": [
+      {
+        "compra": 360,
+        "venta": 370,
+        "fecha": "2024-11-15T15:30:00Z"
+      },
+      {
+        "compra": 365,
+        "venta": 375,
+        "fecha": "2024-11-20T17:56:05.390Z"
+      }
+    ]
+  }
+]
